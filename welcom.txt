@@ -1,3 +1,0 @@
-print("welcome")
-print("how do you do")
-print("Hello")
